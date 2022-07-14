@@ -15,10 +15,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2BsSN14RTJJGQ1LEFtOdC6ypDpj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +38,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -51,22 +57,41 @@
       <updated>1657693255151</updated>
       <workItem from="1657693257845" duration="51000" />
       <workItem from="1657693363559" duration="1752000" />
-      <workItem from="1657695819929" duration="4039000" />
+      <workItem from="1657695819929" duration="5442000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="166" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657695144280">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="166" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1657695144280" />
-    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1657693530137">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1657764165049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1657693530137" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1657764165049" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1657764160865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1657764160865" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1657763559344">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1657763559344" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1657695805365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -83,10 +108,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1657695805365" />
-    <state x="144" y="263" width="1038" height="417" key="SettingsEditor" timestamp="1657707761295">
+    <state x="144" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1657763625631">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="263" width="1038" height="417" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657707761295" />
+    <state x="144" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657763625631" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1657763924430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1657763924430" />
+    <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657764064026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1657764064026" />
+    <state x="333" y="143" key="git4idea.merge.GitPullDialog" timestamp="1657764139458">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1657764139458" />
     <state x="-114" y="41" key="new project wizard" timestamp="1657693307088">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
