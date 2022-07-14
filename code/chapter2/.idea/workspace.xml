@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa37d77-e747-4e6f-98e3-621ccebd610f" name="Default Changelist" comment="" />
+    <list default="true" id="eaa37d77-e747-4e6f-98e3-621ccebd610f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smart/dao/LoginLogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smart/domain/LoginLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smart/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smart/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smart/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smart/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-db.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-db.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -24,7 +33,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="2BsSN14RTJJGQ1LEFtOdC6ypDpj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,13 +43,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.58965516" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -58,7 +70,16 @@
       <workItem from="1657693257845" duration="51000" />
       <workItem from="1657693363559" duration="1752000" />
       <workItem from="1657695819929" duration="5442000" />
+      <workItem from="1657764101311" duration="4232000" />
     </task>
+    <task id="LOCAL-00001" summary="twice">
+      <created>1657764199769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657764199769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,25 +90,35 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="twice" />
+    <option name="LAST_COMMIT_MESSAGE" value="twice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="166" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657695144280">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="166" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1657695144280" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1657764165049">
+    <state x="440" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1657780834294">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1657764165049" />
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1657764160865">
+    <state x="440" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1657780834294" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1657764199299">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1657764160865" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1657764199299" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1657764188020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1657764188020" />
     <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1657763559344">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -108,14 +139,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1657695805365" />
-    <state x="144" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1657763625631">
+    <state x="144" y="0" width="1038" height="680" key="SettingsEditor" timestamp="1657766803555">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657763625631" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1657763924430">
+    <state x="144" y="0" width="1038" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1657766803555" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1657764206726">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1657763924430" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1657764206726" />
     <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657764064026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -124,14 +155,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="333" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1657764139458" />
-    <state x="-114" y="41" key="new project wizard" timestamp="1657693307088">
+    <state x="-27" y="50" key="new project wizard" timestamp="1657784096860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="-114" y="41" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1657693307088" />
+    <state x="-27" y="50" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1657784096860" />
     <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1657695451003">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1657695451003" />
+    <state x="577" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1657781770681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="577" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1657781770681" />
     <state x="0" y="65" key="spring file set editor" timestamp="1657707758395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
